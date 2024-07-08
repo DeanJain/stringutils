@@ -1,3 +1,3 @@
-module github.com/DeanJain/stringutils
+module github.com/deanjain/go-stringutils
 
 go 1.22.5
